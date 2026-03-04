@@ -14,7 +14,8 @@ body {
 
 .scanner-container {
   position: relative;
-  width: 320px;
+  width: 50%;
+  max-width: 300px;
 }
 
 #preview {
@@ -31,4 +32,9 @@ body {
   background: red;
   transform: translateY(-50%);
   opacity: 0.9;
+}
+
+.result {
+    position: relative;
+    
 }
