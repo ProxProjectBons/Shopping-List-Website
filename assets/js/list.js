@@ -1,0 +1,1 @@
+const list = document.getElementById('scan-list');
